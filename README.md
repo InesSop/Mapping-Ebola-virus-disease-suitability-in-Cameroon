@@ -247,8 +247,6 @@ The authors made the R code associated with their study available as Supporting 
 
 The scripts in this repository are **not direct reproductions of the Lee-Cruz et al. code**. They were independently developed and adapted specifically for the Cameroonian context, the risk-factor datasets available for this study, the literature- and expert-based weighting strategies, the seasonal modelling design, the sensitivity analyses, and the exploratory comparison with published serological observations.
 
-Users of this repository are encouraged to consult and cite the original Lee-Cruz et al. (2021) study when applying or adapting similar GIS-MCDA approaches to Ebola virus spillover suitability mapping.
-
 ---
 
 ## Input data
