@@ -36,15 +36,12 @@ The final maps are therefore interpreted as spatial estimates of **relative spil
 
 The analysis follows a weighted linear combination approach:
 
-\[
-S = \sum_{i=1}^{n} w_i x_i
-\]
-
-where:
-
-- \(S\) is the modelled spillover suitability index;
-- \(x_i\) is the standardised spatial layer for risk factor \(i\);
-- \(w_i\) is the corresponding factor weight; and
+〖Suitability Index S〗_ =∑_(i=1)^n▒〖w_i*F_i  ,   1≤i≤n〗
+Where:
+- S is the EVD spillover suitability value;
+- n is the number of selected risk factors;
+- wi is the weight assigned to factor i;
+- Fi is the standardized suitability value of risk factor i to a given pixel. 
 - the weights sum to 1.
 
 All risk-factor layers used by the WLC models were standardised prior to model implementation.
